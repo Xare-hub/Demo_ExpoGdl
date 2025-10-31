@@ -1,12 +1,8 @@
 *.onnx
 *.pt
 *.engine
-opencv/
-opencv_contrib/
 =12.12
 *.onnx
 *.pt
 *.engine
-opencv/
-opencv_contrib/
 =12.12
