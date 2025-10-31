@@ -1,0 +1,6 @@
+Looking in indexes: https://pypi.org/simple, https://pypi.ngc.nvidia.com
+Collecting pybind11
+  Downloading pybind11-3.0.0-py3-none-any.whl.metadata (10.0 kB)
+Downloading pybind11-3.0.0-py3-none-any.whl (292 kB)
+Installing collected packages: pybind11
+Successfully installed pybind11-3.0.0

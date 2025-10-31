@@ -1,0 +1,6 @@
+*.onnx
+*.pt
+*.engine
+opencv/
+opencv_contrib/
+=12.12
