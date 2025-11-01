@@ -1,0 +1,7 @@
+name: DemoExpoGDL
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - libstdcxx-ng
+prefix: /home/javier-rojas/miniconda3/envs/DemoExpoGDL
